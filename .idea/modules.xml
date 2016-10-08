@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-exercise.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-exercise_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-exercise_main.iml" group="gradle-exercise" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-exercise_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-exercise_test.iml" group="gradle-exercise" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleExercise/gradleExercise.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleExercise/gradleExercise.iml" group="gradleExercise" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleExercise/gradleExercise_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleExercise/gradleExercise_main.iml" group="gradleExercise" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradleExercise/gradleExercise_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradleExercise/gradleExercise_test.iml" group="gradleExercise" />
+    </modules>
+  </component>
+</project>
